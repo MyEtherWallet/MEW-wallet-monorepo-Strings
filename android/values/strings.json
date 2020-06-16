@@ -366,6 +366,7 @@
     "enter_recovery_phrase_title": "Enter your recovery\u00a0phrase",
     "enter_recovery_phrase_edit_text": "Words separated by spaces",
     "enter_recovery_phrase_text": "If your recovery phrase is shorter than 24 words (i.e. 12, 15, 18 or 21 words) you can still use it to restore your wallet. Just enter as many words as you have in your\u00a0phrase.",
+    "enter_recovery_phrase_error_wrong": "Wrong recovery phrase",
     "exchange_withdraw": "Withdraw",
     "education_center_title": "Education center",
     "education_center_safety_tips": "Safety tips",
