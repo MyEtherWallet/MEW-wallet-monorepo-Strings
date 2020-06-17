@@ -128,7 +128,7 @@
     "biometric_data_was_changed": "Biometry data was changed",
     "address_format": "%1$s···%2$s",
     "available_assets_toolbar": "Available assets",
-    "available_asset_network": "Etherium",
+    "available_asset_network": "Ethereum",
     "send_progress_to": "To:",
     "too_low_title": "Your account balance is too low",
     "too_low_text": "Every transaction requires a small amount of Ether to execute, even if you have tokens to send, if your Ether balance is close to zero, you won’t be able to send anything until you fund your account.",
