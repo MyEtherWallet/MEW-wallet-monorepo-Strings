@@ -505,12 +505,12 @@
     "advanced_features_text_2": "Функции, которые станут вам доступны",
     "advanced_features_button": "Подключиться к MEW web",
     "advanced_features_create_wallet_title": "Пожалуйста, создайте кошелек",
-    "advanced_features_create_wallet_description": "You need a wallet to connect to MEW web.",
-    "capitalize_market_cap": "Market cap",
-    "capitalize_volume": "24h volume",
-    "capitalize_supply": "Circulating supply",
-    "capitalize_total_supply": "Total supply",
-    "capitalize_swap_button": "Swap",
-    "capitalize_buy_more_button": "Buy more ether",
-    "whats_new_title": "What’s new"
+    "advanced_features_create_wallet_description": "Чтобы подключиться нужно создать кошелек.",
+    "capitalize_market_cap": "Капитализация",
+    "capitalize_volume": "Объем за 24ч",
+    "capitalize_supply": "В обороте",
+    "capitalize_total_supply": "Общий запас",
+    "capitalize_swap_button": "Обмен",
+    "capitalize_buy_more_button": "Купить еще Эфира",
+    "whats_new_title": "Что добавилось"
 }
