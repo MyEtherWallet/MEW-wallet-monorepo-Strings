@@ -320,7 +320,7 @@
     "scan_ethereum_address": "Scan Ethereum address codes\\nto send funds",
     "scan_mewconnect_code": "Scan MEWconnect code to connect to\\nMyEtherWallet.com on desktop",
     "scan_connect_desktop": "How to connect to MEW web",
-    "scan_connecting_text": "Creating encrypted peer-to-peer\\nconnection with MEW desktop",
+    "scan_connecting_text": "Creating encrypted peer-to-peer\\nconnection with MEW web",
     "scan_connecting_title": "Connecting…",
     "scan_error_text": "Can\\'t connect",
     "scan_text_or": "or",
