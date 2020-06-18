@@ -31,7 +31,7 @@
     "main_wallet_guide_title": "Эфириум, что\\u00A0это вообще такое? Максимально понятно для новичков\\n",
     "main_wallet_feedback_subject": "MEW Wallet v.%s (%d) Android feedback",
     "main_wallet_feedback_text": "\\n***\\nПожалуйста, как можно больше подробностей, желательно со скриншотами или видео.\\n***\\n\\nТо, что ниже не стирайте, мы так сможем быстрее разобраться:\\n%1$s, Android %2$s, Размер экрана: %3$dx%4$d, Страна %5$s%6$s, v.%7$s (%8$d)\\n\\nСпасибо за терпение!\\n~Мобильная команда MEW.",
-    "main_wallet_info_text": "Этот материал и многое другое останется доступным в\\nУчебном центре",
+    "main_wallet_info_text": "Этот материал и многое другое можно найти в\\nУчебном центре",
     "main_wallet_samsung_error_text": "Ошибка %d, обратитесь в техподдержку",
     "main_wallet_samsung_error_button": "Обратиться",
     "main_wallet_receive_tab_title": "Получить",
