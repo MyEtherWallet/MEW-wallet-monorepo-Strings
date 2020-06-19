@@ -348,6 +348,7 @@
     "settings_and_support_pin_title": "Enter PIN to view",
     "settings_and_support_biometry_title": "Confirm to view",
     "settings_and_support_fingerprint": "Biometry authentication",
+    "settings_and_support_language": "Language",
     "settings_and_support_reset_wallet_notice": "Resetting wallet will remove all keys saved in local vault and bring you back to the app\\'s start screen.",
     "settings_toolbar": "Settings",
     "manage_details_toolbar": "Account details",
@@ -512,5 +513,12 @@
     "capitalize_total_supply": "Total supply",
     "capitalize_swap_button": "Swap",
     "capitalize_buy_more_button": "Buy more ether",
-    "whats_new_title": "What’s new"
+    "whats_new_title": "What’s new",
+    "settings_language_title": "Language",
+    "numeral_suffix_million": "million",
+    "numeral_suffix_billion": "billion",
+    "numeral_suffix_trillion": "trillion",
+    "numeral_suffix_quadrillion": "quadrillion",
+    "numeral_suffix_quintillion": "quintillion",
+    "numeral_suffix_sextillion": "sextillion"
 }
