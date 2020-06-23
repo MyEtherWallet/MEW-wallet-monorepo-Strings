@@ -425,7 +425,7 @@
     "buy_ether_text_2": "Мы поддерживаем платежи Google Pay и кредитные карты",
     "buy_ether_text_3": "Все платежи обрабатываются Wyre.",
     "buy_ether_text_4": "Покупка производится через Simplex\\nПриблизительная комиссия включена в стоимость",
-    "buy_ether_fiat_custom": "Свое",
+    "buy_ether_fiat_custom": "Своя сумма",
     "buy_ether_balance_custom": "До $%s",
     "buy_ether_button_buy_now": "Купить",
     "buy_ether_button_simplex_min": "Минимальная сумма $50",
