@@ -276,6 +276,7 @@
     "account_transaction_sent_to": "Sent",
     "account_transaction_failed": "Failed",
     "account_transaction_self": "Self",
+    "account_transaction_processing": "Processing",
     "account_transaction_dy_ago": " %dy ago",
     "account_transaction_dw_ago": " %dw ago",
     "account_transaction_dd_ago": " %dd ago",
