@@ -121,7 +121,7 @@
     "scan_offline": "No internet connection",
     "scan_error_contact": "Contact support",
     "create_wallet_title": "Create a free wallet",
-    "create_wallet_description": "This will make you awesome.\\nYou will be able to send and\\nreceive Ether too.",
+    "create_wallet_description": "You will need a\\u00A0wallet to buy and hold Ether, exchange tokens\\u00A0etc.",
     "create_wallet_default_name": "My main account",
     "create_biometry_title": "Enable biometry",
     "create_wallet_error": "Something went wrong, can’t create wallet.\\nPlease contact support.",
