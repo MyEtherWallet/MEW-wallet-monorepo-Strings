@@ -250,7 +250,7 @@
     "swap_details_etherscan": "Посмотреть на Etherscan",
     "swap_details_header_from": "СО СЧЕТА",
     "swap_details_header_to": "НА СЧЕТ",
-    "swap_details_time_delimiter": "at",
+    "swap_details_time_delimiter": "в",
     "swap_details_status_swapped": "Обмен выполнен",
     "swap_details_status_exchanging": "Обмениваем…",
     "swap_details_status_failed": "Не прошло",
@@ -545,6 +545,6 @@
     "comics_frame_9": "Как и все остальное в Эфириуме, он работает на Эфире (ETH) — криптовалюте этой вселенной.",
     "comics_frame_10_1_text_1": "О! Похоже вы уже создали кошелек. Осталось добавить в него немного Эфира, чтобы можно было отправлять транзакции, обменивать токены и экспериментировать с остальными функциями Эфириума.",
     "comics_frame_10_1_text_2": "Купить Эфир",
-    "comics_frame_10_2_text_1": "Your first step is\\u00A0to\\u00A0create a\\u00A0wallet. Once you do\\u00A0that, you\\'ll\\u00A0be\\u00A0ready to\\u00A0buy and\\u00A0hold Ether, swap tokens and\\u00A0interact with everything that the\\u00A0Ethereum universe has to\\u00A0offer.",
-    "comics_frame_10_2_text_2": "Create a wallet"
+    "comics_frame_10_2_text_1": "Для начала нужно создать кошелек. Он нужен, чтобы покупать и\\u00A0хранить Эфир, обменивать токены и\\u00A0экспериментировать со\\u00A0всеми остальными возможностями вселенной Эфириума.",
+    "comics_frame_10_2_text_2": "Создать кошелек"
 }
