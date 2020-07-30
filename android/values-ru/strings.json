@@ -225,7 +225,7 @@
     "select_rate_best": "Лучшее",
     "select_rate_unavailable": "Временно недоступно",
     "select_rate_multiple_dex": "Распределяет заказ между провайдерами",
-    "select_rate_warning": "Warning",
+    "select_rate_warning": "Внимание",
     "select_rate_warning_text_bad": "Warning: this is a very bad trade. Due to low liquidity, you will get a rate that is %s\\%% lower than the market. We recommend you to re-consider it.",
     "select_rate_warning_text_low": "Warning: you will get a rate that is %s\\%% lower than usual. Due to low liquidity this trade will significantly affect the market and result in an unfavorable exchange rate.",
     "verify_swap_title": "Проверьте, все\\u00A0ли\\u00A0правильно?",
