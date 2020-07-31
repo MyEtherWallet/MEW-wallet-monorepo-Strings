@@ -448,7 +448,7 @@
     "buy_ether_text_3": "All payments are securely processed by Wyre.",
     "buy_ether_text_4": "Purchase will be done via Simplex\\nApproximate fee is already included in this rate",
     "buy_ether_fiat_custom": "Custom",
-    "buy_ether_balance_custom": "$%sk max",
+    "buy_ether_balance_custom": "up to $%s",
     "buy_ether_button_buy_now": "Buy now",
     "buy_ether_button_simplex_min": "$50 minimum purchase",
     "buy_ether_button_choose_amount": "Choose amount",
