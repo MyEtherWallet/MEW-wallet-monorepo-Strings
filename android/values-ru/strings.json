@@ -122,7 +122,7 @@
     "scan_error_contact": "Обратиться в техподдержку",
     "create_wallet_title": "Создать кошелек",
     "create_wallet_description": "Кошелек нужен, чтобы покупать и\\u00A0хранить Эфир, обменивать токены на\\u00A0бирже\\u00A0и\\u00A0др.",
-    "create_wallet_default_name": "Основной аккаунт",
+    "create_wallet_default_name": "Основной счет",
     "create_biometry_title": "Включить биометрическую разблокировку",
     "create_wallet_error": "Что-то пошло не так, у нас не получается создать кошелёк.\\nОбратитесь в техподдержку.",
     "create_wallet_error_contact_support": "Обратиться",
