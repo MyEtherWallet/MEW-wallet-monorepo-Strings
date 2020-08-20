@@ -587,5 +587,6 @@
     "restart_app_text": "Пожалуйста, перезапустите приложение, чтобы изменить язык",
     "restart_app_ok": "Перезапустить",
     "restart_app_cancel": "Отмена",
-    "test_crowdin": "Just a test for crowdin. Remove it later"
+    "test_crowdin": "Just a test for crowdin. Remove it later",
+    "test_string": "test_string"
 }
