@@ -326,6 +326,7 @@
     "confirm_dapp_unlimited": "Unlimited",
     "accounts_title": "Select funds from",
     "accounts_dapp_title": "Select account to connect to\\n<font color=\"#08c3a5\">%1$s<\/font>",
+    "accounts_dapp_default": "Select account to connect to MEW web",
     "connect_to_desktop_text_1": "Go to <b>MyEtherWallet.com<\/b> on your computer",
     "connect_to_desktop_text_2": "Choose Access <b>My Wallet<\/b><br\/>option",
     "connect_to_desktop_text_3": "Select <b>MEW Connect<\/b> option on the screen that follows",
@@ -582,5 +583,8 @@
     "comics_frame_10_1_text_1": "It looks like you\\'ve already taken the first step and created a wallet, good job! Now its time to fill it with some Ether. You need Ether to send transactions, swap tokens, and use other Ethereum features.",
     "comics_frame_10_1_text_2": "Buy ether",
     "comics_frame_10_2_text_1": "Your first step is to create a wallet. Once you do that, you\\'ll be ready to buy and hold Ether, swap tokens and interact with everything that the Ethereum universe has to offer.",
-    "comics_frame_10_2_text_2": "Create a wallet"
+    "comics_frame_10_2_text_2": "Create a wallet",
+    "restart_app_text": "Please restart the app to apply language changes",
+    "restart_app_ok": "Restart",
+    "restart_app_cancel": "Cancel"
 }
