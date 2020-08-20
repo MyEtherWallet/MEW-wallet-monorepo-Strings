@@ -587,5 +587,6 @@
     "restart_app_text": "Please restart the app to apply language changes",
     "restart_app_ok": "Restart",
     "restart_app_cancel": "Cancel",
-    "test_crowdin": "Just a test for crowdin. Remove it later"
+    "test_crowdin": "Just a test for crowdin. Remove it later",
+    "test_string": "test_string"
 }
