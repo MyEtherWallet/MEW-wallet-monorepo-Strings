@@ -545,7 +545,7 @@
     "advanced_features_text_2": "Функции, которые станут вам доступны",
     "advanced_features_button": "Подключиться к MEW web",
     "advanced_features_create_wallet_title": "Пожалуйста, создайте кошелек",
-    "advanced_features_create_wallet_description": "You need a wallet to hold Ether and all ERC-20 tokens, send transactions and do other things on Ethereum.",
+    "advanced_features_create_wallet_description": "Кошелек нужен, чтобы покупать и\\u00A0хранить Эфир, обменивать токены на\\u00A0бирже\\u00A0и\\u00A0др.",
     "capitalize_market_cap": "Капитализация",
     "capitalize_volume": "Объем за 24ч",
     "capitalize_supply": "В обороте",
