@@ -570,7 +570,7 @@
     "without_backup_ok": "Принять",
     "without_backup_cancel": "Отклонить",
     "comics_share_title": "Выберите приложение",
-    "comics_share_message": "What is Ethereum? Absolute beginner\\'s guide. Read online: mewwallet.com\\\/what-is-ethereum",
+    "comics_share_message": "Эфириум\\u00A0— что\\u00A0это вообще\\u00A0такое? Онлайн-комикс: mewwallet.com\\\/what-is-ethereum",
     "comics_frame_1": "Ethereum is a lot like a universe, but made up of data.",
     "comics_frame_2": "Whatever data you throw into it stays there forever. It can\\'t be changed, censored or falsified, and it\\'s visible to everyone as proof that you put it there.",
     "comics_frame_3": "No one owns or controls Ethereum. Like our own universe, Ethereum is ruled by its own set of laws",
@@ -586,5 +586,6 @@
     "comics_frame_10_2_text_2": "Создать кошелек",
     "restart_app_text": "Please restart the app to apply language changes",
     "restart_app_ok": "Restart",
-    "restart_app_cancel": "Cancel"
+    "restart_app_cancel": "Cancel",
+    "test_crowdin": "Just a test for crowdin. Remove it later"
 }
