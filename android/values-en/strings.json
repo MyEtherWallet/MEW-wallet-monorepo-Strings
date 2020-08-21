@@ -586,6 +586,5 @@
     "comics_frame_10_2_text_2": "Create a wallet",
     "restart_app_text": "Please restart the app to apply language changes",
     "restart_app_ok": "Restart",
-    "restart_app_cancel": "Cancel",
-    "test_crowdin": "Just a test for crowdin. Remove it later. Eng"
+    "restart_app_cancel": "Cancel"
 }

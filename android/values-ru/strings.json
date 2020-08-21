@@ -586,6 +586,5 @@
     "comics_frame_10_2_text_2": "Создать кошелек",
     "restart_app_text": "Пожалуйста, перезапустите приложение, чтобы изменить язык",
     "restart_app_ok": "Перезапустить",
-    "restart_app_cancel": "Отмена",
-    "test_crowdin": "Just a test for crowdin. Remove it later. Rus1"
+    "restart_app_cancel": "Отмена"
 }
