@@ -1,0 +1,23 @@
+on: [pull_request]
+
+name: "auto-merge"
+
+jobs:
+  merge:
+    runs-on: "ubuntu-latest"
+    
+    steps:
+      - name: "Merge pull request"
+        uses: "actions/github-script@v2"
+        with:
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
+          script: |
+            const pullRequest = context.payload.pull_request
+            const repository = context.repo
+            
+            await github.pulls.merge({
+              merge_method: "merge",
+              owner: repository.owner,
+              pull_number: pullRequest.number,
+              repo: repository.repo,
+            })
