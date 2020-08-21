@@ -1,10 +1,20 @@
-on: [pull_request]
+on: [push, pull_request]
 
 name: "auto-merge"
 
 jobs:
   merge:
     runs-on: "ubuntu-latest"
+    
+    if: >
+      github.event_name == 'pull_request' &&
+      github.event.pull_request.draft == false && (
+        github.event.action == 'opened' ||
+        github.event.action == 'reopened' ||
+        github.event.action == 'synchronize'
+      ) && (
+        github.actor == 'kvhnuke' || github.actor == 'Foboz'
+      )
     
     steps:
       - name: "Merge pull request"
