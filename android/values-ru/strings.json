@@ -587,5 +587,10 @@
     "restart_app_text": "Пожалуйста, перезапустите приложение, чтобы изменить язык",
     "restart_app_ok": "Перезапустить",
     "restart_app_cancel": "Отмена",
-    "new_dev_string": "dev_string"
+    "new_dev_string": "dev_string",
+    "service_notification_channel_name": "MEWconnect connection service",
+    "service_notification_channel_description": "Shown while application is connected",
+    "service_notification_title": "MEWconnect",
+    "service_notification_text": "Connected",
+    "service_notification_disconnect": "Disconnect"
 }
