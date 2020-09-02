@@ -591,6 +591,6 @@
     "service_notification_channel_name": "Сервис подключения MEWconnect",
     "service_notification_channel_description": "Отображается при подключении приложения",
     "service_notification_title": "MEWconnect",
-    "service_notification_text": "Подключён",
+    "service_notification_text": "Подключен",
     "service_notification_disconnect": "Отключиться"
 }
