@@ -588,9 +588,9 @@
     "restart_app_ok": "Перезапустить",
     "restart_app_cancel": "Отмена",
     "new_dev_string": "dev_string",
-    "service_notification_channel_name": "MEWconnect connection service",
-    "service_notification_channel_description": "Shown while application is connected",
+    "service_notification_channel_name": "Сервис подключения MEWconnect",
+    "service_notification_channel_description": "Отображается при подключении приложения",
     "service_notification_title": "MEWconnect",
-    "service_notification_text": "Connected",
-    "service_notification_disconnect": "Disconnect"
+    "service_notification_text": "Подключён",
+    "service_notification_disconnect": "Отключиться"
 }
