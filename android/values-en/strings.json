@@ -139,7 +139,7 @@
     "too_low_title": "Your account balance is too low",
     "too_low_text": "Every transaction requires a small amount of Ether to execute, even if you have tokens to send, if your Ether balance is close to zero, you won’t be able to send anything until you fund your account.",
     "too_low_text2": "How much Ether do I need?",
-    "too_low_text3": "Based on recent gas prices here\\'s approximate cost of popular operations:\\nSend Ether: 0.01 – 0.05 ETH ($0.31 – $1.21)\\nSend a token: 0.02 – 0.06 ETH ($0.41 – $1.73)\\nSwap tokens: 0.07 – 0.12 ETH ($4.21 – $19.51)",
+    "too_low_text3": "Based on recent gas prices here\\'s approximate cost of popular operations:\\nSend Ether: %1$s – %2$s ETH (%3$s – %4$s)\\nSend a token: %5$s – %6$s ETH (%7$s – %8$s)\\nSwap tokens: %9$s – %10$s ETH (%11$s – %12$s)",
     "too_low_button": "Fund my account",
     "transaction_fee_title": "Choose transaction fee",
     "verify_transaction_check_address_button": "Confirm and send",
