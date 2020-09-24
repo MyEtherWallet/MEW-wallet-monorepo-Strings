@@ -139,7 +139,7 @@
     "too_low_title": "На этом аккаунте недостаточно Эфира",
     "too_low_text": "Чтобы отправить транзакцию, вам понадобится немного Эфира, даже если вы отправляете не сам Эфир, а токены. Рекомендуем всегда иметь немного Эфира на счете.",
     "too_low_text2": "Сколько взять Эфира?",
-    "too_low_text3": "Based on recent gas prices here\\'s approximate cost of popular operations:\\nSend Ether: 0.01 – 0.05 ETH ($0.31 – $1.21)\\nSend a token: 0.02 – 0.06 ETH ($0.41 – $1.73)\\nSwap tokens: 0.07 – 0.12 ETH ($4.21 – $19.51)",
+    "too_low_text3": "Приблизительная стоимость популярных операций на данный момент:\\Отправка Эфира: 0.01\\u00A0–\\u00A00.05\\u00A0ETH ($0. 1\\u00A0–\\u00A0$1.21)\\Отправка токена: 0.02\\u00A0–\\u00A00.06\\u00A0ETH ($0.41\\u00A0–\\u00A0$1.73)\\nОбмен токенов: 0.07\\u00A0–\\u00A00.12 ETH ($4.21 – $19.51)",
     "too_low_button": "Пополнить счет",
     "transaction_fee_title": "Выбор комиссии",
     "verify_transaction_check_address_button": "Все верно, отправляем",
@@ -565,8 +565,8 @@
     "restart_app_ok": "Перезапустить",
     "restart_app_cancel": "Отмена",
     "force_restore_title": "Восстановите кошелек из резервной копии",
-    "force_restore_text": "We can’t continue because either your screen lock settings have been changed (e.g. password was disabled, fingerprints were changed) or a rare device hardware issue happened.\\nFor security purposes, Android has permanently locked your key store. Therefore, your MEW wallet app data must be wiped.\\n\\nDon’t worry, your funds are still secure! Restore your wallet using your 24-word recovery phrase.",
-    "force_restore_ok": "Restore wallet",
-    "proceed_restore_ok": "Proceed",
-    "proceed_restore_text": "This will wipe your app data. Proceed only if you have your recovery phrase handy."
+    "force_restore_text": "Мы не можем продолжить, из-за того что либо были изменены настройки блокировки экрана  (что-то изменилось либо в пароле\/ПИНе либо в биометрии) либо на вашем устройстве возникла редкая аппаратная проблема.\\nВ целях безопасности Андроид заблокировал хранилище ключей. Чтобы все починить, нужно стереть и пересоздать ваш кошелек.\\n\\nНе волнуйтесь, до тех пор пока у вас есть кодовая фраза, ваши средства в безопасности. Восстановите кошелек из резервной копии — кодовой фразы из 24-х слов.",
+    "force_restore_ok": "Восстановить кошелек",
+    "proceed_restore_ok": "Продолжить",
+    "proceed_restore_text": "Это действие удалит все данные приложения. Продолжайте только если у вас есть кодовая фраза из 24-х слов которую вы записали когда делали резервную копию кошелька."
 }
