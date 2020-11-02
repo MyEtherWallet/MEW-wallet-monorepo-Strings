@@ -585,10 +585,12 @@
     "market_item_receive": "Receive",
     "market_item_description_title": "Description",
     "market_item_description_text": "Ethereum is an open-source, blockchain-based, decentralized software platform used for its own cryptocurrency, ether. It enables SmartContracts and Distributed Applications (\u0110Apps) to be built and run without any downtime, fraud, control, or interference from a third party.",
-    "chart_change_text_day": "this day",
-    "chart_change_text_week": "this week",
-    "chart_change_text_month": "this month",
-    "chart_change_text_month3": "for 3 months",
-    "chart_change_text_year": "this year",
-    "chart_change_text_all": "for all time"
+    "market_item_balance_title": "Balance",
+    "market_item_info_empty": "No additional information is available about this\u00a0token.",
+    "chart_change_text_day": "last 24h",
+    "chart_change_text_week": "last 7d",
+    "chart_change_text_month": "last 30d",
+    "chart_change_text_month3": "last 3mo",
+    "chart_change_text_year": "last 12mo",
+    "chart_change_text_all": "all time"
 }
