@@ -226,6 +226,7 @@
     "desired_token_title": "Token you want to get",
     "available_assets_title": "Available assets",
     "available_assets_no_results": "No results",
+    "available_assets_hidden_tokens": "Hidden tokens",
     "select_rate_title": "Select rate and provider",
     "select_rate_fee": "Quotes are approximate, and include 2.5% fee",
     "select_rate_for": "for",
@@ -587,10 +588,17 @@
     "market_item_description_text": "Ethereum is an open-source, blockchain-based, decentralized software platform used for its own cryptocurrency, ether. It enables SmartContracts and Distributed Applications (ĐApps) to be built and run without any downtime, fraud, control, or interference from a third party.",
     "market_item_balance_title": "Balance",
     "market_item_info_empty": "No additional information is available about this token.",
+    "market_item_hide_text": "Hide token",
+    "market_item_unhide_text": "Un-Hide token",
     "chart_change_text_day": "last 24h",
     "chart_change_text_week": "last 7d",
     "chart_change_text_month": "last 30d",
     "chart_change_text_month3": "last 3mo",
     "chart_change_text_year": "last 12mo",
-    "chart_change_text_all": "all time"
+    "chart_change_text_all": "all time",
+    "send_input_amount_swap_button": "Add memo",
+    "send_input_amount_memo_text": "<b>Memo:<\/b> %s",
+    "memo_dialog_title": "Add memo",
+    "memo_dialog_add": "Add",
+    "memo_dialog_hint": "Type here"
 }
