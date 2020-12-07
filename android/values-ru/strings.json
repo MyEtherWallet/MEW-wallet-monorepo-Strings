@@ -603,8 +603,8 @@
     "memo_dialog_hint": "Введите текст",
     "staking_forecast_title": "Прогнозируемый доход",
     "stake_in_title": "Стейкинг в Eth2",
-    "staking_fee_title": "Комиссия за стейкинг",
-    "staking_fee_dialog_title": "Staking fee",
+    "staking_fee_title": "Комиссия",
+    "staking_fee_dialog_title": "Комиссия за стейкинг",
     "staking_current_apy_title": "Доходность",
     "verify_staking_title": "Проверьте, все ли правильно",
     "verify_staking_info_text": "Комиссия за стейкинг покрывает период до того момента когда в Eth2 будет активирован перевод средств. Чтобы продолжить стейкинг после этого, потребуется заплатить еще.",
@@ -655,5 +655,5 @@
     "staking_enabling": "Активация…",
     "staking_ready": "Можно отправлять",
     "staking_enabling_message": "Готовим Eth2 валидатора.\\nОбычно это занимает около 20 секунд, в редких случаях\\nможет занять до 10 мин.",
-    "verify_staking_validate_state": "Validator: staked"
+    "verify_staking_validate_state": "Валидатор: Staked"
 }
