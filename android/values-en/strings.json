@@ -604,6 +604,7 @@
     "staking_forecast_title": "Deposit value growth forecast",
     "stake_in_title": "Stake on Eth2",
     "staking_fee_title": "Staking fee",
+    "staking_fee_dialog_title": "Staking fee",
     "staking_current_apy_title": "Current APR",
     "verify_staking_title": "Verify Eth2 staking",
     "verify_staking_info_text": "I understand that the staking fee is covering staking until transfers are enabled on Eth2. Additional payment will be required to stake further.",
