@@ -614,6 +614,7 @@
     "verify_staking_button_inactive": "Подтвердите сумму и условия",
     "verify_staking_button_sending": "Отправляем…",
     "verify_staking_button_not_enough_funds": "Не хватает Эфира",
+    "verify_staking_tx_fee": "Tx fee:",
     "staking_title": "Стейкинг в Эфириуме 2.0",
     "staking_title_unavailable": "Стейкинг недоступен",
     "staking_unavailable_text1": "К сожалению из-за технических ограничений, стейкинг не доступен на устройствах где используется Samsung Blockchain Keystore.",
@@ -655,5 +656,8 @@
     "staking_enabling": "Активация…",
     "staking_ready": "Можно отправлять",
     "staking_enabling_message": "Готовим Eth2 валидатора.\\nОбычно это занимает около 20 секунд, в редких случаях\\nможет занять до 10 мин.",
-    "verify_staking_validate_state": "Валидатор: Staked"
+    "verify_staking_validate_state": "Валидатор: Staked",
+    "staking_create_wallet_title": "Please create a wallet to stake on Ethereum 2.0",
+    "staking_create_wallet_text": "You need a wallet to stake on Ethereum 2.0",
+    "staking_create_wallet_button": "Create a wallet"
 }
