@@ -614,6 +614,7 @@
     "verify_staking_button_inactive": "Check amount and confirm",
     "verify_staking_button_sending": "Sending…",
     "verify_staking_button_not_enough_funds": "Not enough funds",
+    "verify_staking_tx_fee": "Tx fee:",
     "staking_title": "Ethereum 2.0 staking",
     "staking_title_unavailable": "Ethereum 2.0 staking unavailable",
     "staking_unavailable_text1": "Unfortunately due to technical difficulties, staking is not available on devices that use Samsung Blockchain Keystore.",
@@ -655,5 +656,8 @@
     "staking_enabling": "Enabling Staking…",
     "staking_ready": "Ready to stake",
     "staking_enabling_message": "Provisioning Eth2 validator.\\nThis usually takes ~20 seconds, in rare\\ncases it can take up to 10 min.",
-    "verify_staking_validate_state": "Validator: staked"
+    "verify_staking_validate_state": "Validator: staked",
+    "staking_create_wallet_title": "Please create a wallet to stake on Ethereum\u00a02.0",
+    "staking_create_wallet_text": "You need a wallet to stake on Ethereum\u00a02.0",
+    "staking_create_wallet_button": "Create a wallet"
 }
