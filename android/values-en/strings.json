@@ -661,5 +661,6 @@
     "verify_staking_validate_state": "Validator: staked",
     "staking_create_wallet_title": "Please create a wallet to stake on Ethereum 2.0",
     "staking_create_wallet_text": "You need a wallet to stake on Ethereum 2.0",
-    "staking_create_wallet_button": "Create a wallet"
+    "staking_create_wallet_button": "Create a wallet",
+    "leave_staking_warning": "This will reset current staking process and require you to re-enable staking again."
 }
