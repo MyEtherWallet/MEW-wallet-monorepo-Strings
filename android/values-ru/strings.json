@@ -614,7 +614,7 @@
     "verify_staking_button_inactive": "Подтвердите сумму и условия",
     "verify_staking_button_sending": "Отправляем…",
     "verify_staking_button_not_enough_funds": "Не хватает Эфира",
-    "verify_staking_tx_fee": "Tx fee:",
+    "verify_staking_tx_fee": "Комиссия:",
     "staking_title": "Стейкинг в Эфириуме 2.0",
     "staking_title_unavailable": "Стейкинг недоступен",
     "staking_unavailable_text1": "К сожалению из-за технических ограничений, стейкинг не доступен на устройствах где используется Samsung Blockchain Keystore.",
