@@ -702,5 +702,6 @@
     "staking_progress_validators_behind_you": "Validators behind you: %d",
     "staking_progress_queue_speed": "Queue speed: ~900 validators per day*",
     "staking_progress_ethereum_transaction": "Ethereum transaction",
-    "staking_progress_validator": "Validator"
+    "staking_progress_validator": "Validator",
+    "feedback_chooser_title": "Email support"
 }
