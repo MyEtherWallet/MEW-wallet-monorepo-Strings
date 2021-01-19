@@ -749,5 +749,6 @@
     "main_menu_exchange_label": "Swap",
     "main_menu_learn_label": "Education",
     "main_menu_dapp_lable": "Browser",
-    "double_back_to_exit": "Tap again to exit the app"
+    "double_back_to_exit": "Tap again to exit the app",
+    "feedback_chooser_title": "Email support"
 }
