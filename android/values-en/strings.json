@@ -118,7 +118,7 @@
     "prepare_to_write_biometry_title": "Confirm to back up",
     "main_wallet_backup_now": "Back up now",
     "main_wallet_backup_title": "Action required: not backed up",
-    "main_wallet_backup_text": "If your device gets lost or stolen, or if there\\'s an unexpected hardware error, you will loose your funds forever.",
+    "main_wallet_backup_text": "If your device gets lost or stolen, or if there\\'s an unexpected hardware error, you will lose your funds forever.",
     "scan_toolbar_title": "Scan QR",
     "scan_camera_permission_rationale_settings1": "Please enable camera access for\\nMEWconnect in ",
     "scan_camera_permission_rationale_settings2": "Settings",
