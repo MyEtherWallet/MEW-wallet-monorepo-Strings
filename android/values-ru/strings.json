@@ -739,16 +739,16 @@
     "dapp_catalog_disclaimer_text_2": "Each DApp is not associated with MyEtherWallet and MEW wallet and is directly and separetely liable to you by this DApp.",
     "dapp_catalog_disclaimer_decline": "Decline",
     "dapp_catalog_disclaimer_confirm": "Confirm",
-    "dapp_disclaimer_text_1": "%s is a 3rd party DApp. When using this DApp you are subject to this DApp\\'s User Agreement and Privacy Policy.",
-    "dapp_disclaimer_text_2": "%s is liable to you directly and separately from MEW.",
-    "dapp_disclaimer_warning": "%s DApp doesn’t have a SSL certificate.",
+    "dapp_disclaimer_text_1": "%s это стороннее веб-приложение. При его использовании, на вас распространяется действие пользовательского соглашения и политики конфиденциальности.",
+    "dapp_disclaimer_text_2": "MEW не несет ответственности за работу %s.",
+    "dapp_disclaimer_warning": "У %s нет SSL-сертификата.",
     "dapp_buy_create_wallet_title": "Please create a wallet to buy Ether",
     "dapp_buy_create_wallet_description": "You need a wallet to hold Ether once you purchased it.",
-    "dapp_create_wallet_button": "Create a wallet",
+    "dapp_create_wallet_button": "Создать кошелек",
     "dapp_webview_top_title": "Discover DApps",
-    "main_menu_exchange_label": "Swap",
+    "main_menu_exchange_label": "Обмен",
     "main_menu_learn_label": "Education",
-    "main_menu_dapp_lable": "Browser",
+    "main_menu_dapp_lable": "Браузер",
     "double_back_to_exit": "Tap again to exit the app",
-    "feedback_chooser_title": "Email support"
+    "feedback_chooser_title": "Написать в техподдержку"
 }
