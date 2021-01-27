@@ -768,7 +768,7 @@
     "transaction_speed_up_total": "Total:",
     "transaction_speed_up_update_transaction": "Update transaction",
     "transaction_speed_up_new_fee_title": "Choose new transaction fee",
-    "transaction_speed_up_text": "Select a higher fee, and we will replace your existing transaction with a new one. The higher the fee, the faster it will be processed by Ethereum miners.",
+    "transaction_speed_up_text": "Выберите более высокую комиссию, и мы заменим вашу текущую транзакцию на новую. Чем выше комиссия, тем быстрее пройдет транзакция.",
     "transaction_speed_up_fee_error": "Something went wrong. Please try again later",
     "feedback_chooser_title": "Написать в техподдержку"
 }
