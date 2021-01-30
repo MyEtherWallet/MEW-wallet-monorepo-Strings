@@ -770,5 +770,6 @@
     "transaction_speed_up_new_fee_title": "Choose new transaction fee",
     "transaction_speed_up_text": "Select a higher fee, and we will replace your existing transaction with a new one. The higher the fee, the faster it will be processed by Ethereum miners.",
     "transaction_speed_up_fee_error": "Something went wrong. Please try again later",
-    "feedback_chooser_title": "Email support"
+    "feedback_chooser_title": "Email support",
+    "transaction_send_cancel_text": "Replacing your existing transaction\\nwith an empty one."
 }
