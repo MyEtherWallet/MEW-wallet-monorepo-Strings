@@ -770,5 +770,6 @@
     "transaction_speed_up_new_fee_title": "Выберите новую комиссию",
     "transaction_speed_up_text": "Выберите более высокую комиссию, и мы заменим вашу текущую транзакцию на новую. Чем выше комиссия, тем быстрее пройдет транзакция.",
     "transaction_speed_up_fee_error": "Что-то пошло не так. Попробуйте еще раз позже",
-    "feedback_chooser_title": "Написать в техподдержку"
+    "feedback_chooser_title": "Написать в техподдержку",
+    "transaction_send_cancel_text": "Replacing your existing transaction\\nwith an empty one."
 }
