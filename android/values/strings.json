@@ -753,6 +753,7 @@
     "dapp_buy_create_wallet_description": "You need a wallet to hold Ether once you purchased it.",
     "dapp_create_wallet_button": "Create a wallet",
     "dapp_webview_top_title": "Discover DApps",
+    "dapp_not_supported_on_samsung": "This function not available for Samsung Blockchain",
     "main_wallet_transactions_speed_up": "Speed up",
     "main_wallet_transactions_cancel": "Cancel",
     "transaction_cancel_title": "Cancel transaction",
