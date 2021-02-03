@@ -753,6 +753,7 @@
     "dapp_buy_create_wallet_description": "Вам потребуется кошелек, чтобы было куда зачислять купленный Эфир.",
     "dapp_create_wallet_button": "Создать кошелек",
     "dapp_webview_top_title": "Discover DApps",
+    "dapp_not_supported_on_samsung": "This function not available for Samsung Blockchain",
     "main_wallet_transactions_speed_up": "Ускорить",
     "main_wallet_transactions_cancel": "Отменить",
     "transaction_cancel_title": "Отменить транзакцию",
