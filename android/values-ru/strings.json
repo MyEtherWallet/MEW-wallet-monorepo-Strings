@@ -133,7 +133,7 @@
     "scan_offline": "Нет интернета",
     "scan_error_contact": "Обратиться в техподдержку",
     "create_wallet_title": "Создать кошелек",
-    "create_wallet_description": "Кошелек понадобится чтобы купить, хранить и\\u00A0отправлять эфир и\\u00A0токены.",
+    "create_wallet_description": "Кошелек понадобится чтобы купить, хранить и\\u00A0отправлять Эфир и\\u00A0токены.",
     "create_wallet_default_name": "Основной счет",
     "create_biometry_title": "Включить биометрическую разблокировку",
     "biometric_prompt_cancel": "Отмена",
