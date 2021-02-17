@@ -190,7 +190,7 @@
     "send_input_amount_not_enough_to_pay": "Ой! Не хватает Эфира на оплату комиссии",
     "send_input_amount_buy_ether": "Купить Эфир",
     "send_input_less_than": "меньше %s",
-    "send_dialog_title": "Вы точно хотите отправлять на адрес контракта?",
+    "send_dialog_title": "Вы точно хотите отправить на адрес контракта?",
     "send_dialog_text": "Большинство контрактов не поддерживают отправку активов напрямую в них. В таком случае вы потеряете свои средства, они попросту сгорят.",
     "transition_fee_less_than": "<%s",
     "transition_fee_not_enough_funds": "Не хватает Эфира",
