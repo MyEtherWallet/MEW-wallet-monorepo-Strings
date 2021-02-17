@@ -357,7 +357,7 @@
     "connect_to_desktop_position_3": "3",
     "connect_to_desktop_position_4": "4",
     "continue_title": "Продолжайте в браузере",
-    "continue_text": "Сообщение подписано. Пожалуйста продолжите в %s в браузере.",
+    "continue_text": "Сообщение подписано. Пожалуйста, продолжите в %s в браузере.",
     "continue_transaction_text": "Транзакция создана и подписана. Пожалуйста, продолжайте в %s в браузере, чтобы отправить ее.",
     "continue_text_default": "MyEtherWallet",
     "sign_message_title": "Подписать сообщение",
